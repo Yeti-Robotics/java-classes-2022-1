@@ -22,5 +22,9 @@ public class Main {
         System.out.println(5 % 3);
         char spade = '\u2660';
         System.out.println(spade);
+        System.out.println("this has a newline at the end");
+        System.out.print("no newline here");
+        System.out.println("he said \"i like typescript\" -pro grammer");
+        System.out.println("print this");
     }
 }
