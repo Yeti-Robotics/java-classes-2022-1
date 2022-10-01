@@ -1,3 +1,5 @@
+package Zoo.src;
+
 public class Cat extends Mammal{
     private final String name;
 

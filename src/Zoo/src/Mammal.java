@@ -1,3 +1,5 @@
+package Zoo.src;
+
 public class Mammal {
     public String speak() {
         return "I am a mammal.";

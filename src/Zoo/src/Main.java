@@ -1,3 +1,5 @@
+package Zoo.src;
+
 public class Main {
     public static void main(String[] args) {
         Mammal mammal = new Mammal();
