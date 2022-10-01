@@ -1,4 +1,4 @@
-package Zoo.src;
+package Zoo;
 
 public class Cat extends Mammal{
     private final String name;

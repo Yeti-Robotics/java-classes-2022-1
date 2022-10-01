@@ -1,4 +1,4 @@
-package Zoo.src;
+package Zoo;
 
 public class Mammal {
     public String speak() {
